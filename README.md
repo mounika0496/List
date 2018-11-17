@@ -42,6 +42,12 @@ first_list_only=list(set(first_list_elements)-set(second_list_elements))
 print(common_list_elements)
 print(first_list_only)
 ```
+**Execution**
+```
+G:\>python prg2.py ['a','b','c'] ['b','d']
+['b']
+['c', 'a']
+```
 ### Approach Towards The Development of Code
 
 **PROBLEM IN COMPARING OF TWO LISTS**
